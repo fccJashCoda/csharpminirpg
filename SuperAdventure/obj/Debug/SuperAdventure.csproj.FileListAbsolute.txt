@@ -10,3 +10,4 @@ C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\SuperAdventu
 C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
 C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
