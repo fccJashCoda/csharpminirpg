@@ -1,0 +1,6 @@
+C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\Engine\bin\Release\Engine.dll
+C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\Engine\bin\Release\Engine.pdb
+C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\Engine\obj\Release\Engine.csprojAssemblyReference.cache
+C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\Engine\obj\Release\Engine.dll
+C:\Users\Ocelot\Desktop\Training Ground\aanewhope\C#\SuperAdventure\Engine\obj\Release\Engine.pdb
